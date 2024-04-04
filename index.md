@@ -3,7 +3,7 @@
 ### A ~~Junior~~ Senior at UCSD. Founder of [IcarAI](https://www.icarai.io). IcarAI processes various test types for teachers, including:
 - Fast aReading
 - WCJ-IV
-- DEMI
+- DEMI (SDUSD)
 ### The following are my biggest technical obstacles with regards to IcarAI, in order of absolute headache output potential.
 1. Nested document table manipulation
 2. Multithreading
