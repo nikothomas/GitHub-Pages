@@ -14,7 +14,9 @@
 - [ ] Retool Fjord Phyto data pipeline.
 ### [Readme for the page you're reading (oh the irony).](/README.md)
 ### Code sample from my batch scripting days, just for fun. [Click here to skip to the inspirational quote.](#obligatory-rocky-reference) 
+
 ```
+
 @echo off
 
 color b
